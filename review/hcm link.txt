@@ -1,0 +1,11 @@
+What is ERP?: https://www.youtube.com/watch?v=lYCEQqSM08I
+HCM introduction : https://www.youtube.com/watch?v=QHb-eSDEEbQ
+
+Tutorialspoint sap tutorial: https://www.tutorialspoint.com/sap_tutorials.htm
+
+Tutorialspoint sap hcm tutorial: https://www.tutorialspoint.com/sap_hr/index.htm
+
+Tutorialspoint SuccessFactors tutorial: https://www.tutorialspoint.com/sap_successfactors/index.htm
+
+Guru99 sap tutorial: https://www.guru99.com/sap-training-hub.html
+Guru99 hcm tutorial: https://www.guru99.com/sap-hcm.html
